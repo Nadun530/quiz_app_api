@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Rome"],
+      "correct_answer": "Paris",
+      "image_url": "https://example.com/paris.jpg"
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+      "correct_answer": "Lion",
+      "image_url": "https://example.com/lion.jpg"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "correct_answer": "Leonardo da Vinci",
+      "image_url": "https://example.com/monalisa.jpg"
+    }
+  ]
+}
